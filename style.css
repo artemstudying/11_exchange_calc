@@ -1,0 +1,9 @@
+.result {
+  height: 30px;
+  width: 100px;
+  border: 2px solid black;
+  margin: 0px 10зч;
+  display: inline-block;
+  background-color: aqua;
+  text-align: center;
+}
